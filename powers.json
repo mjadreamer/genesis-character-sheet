@@ -1,0 +1,706 @@
+[
+  {
+    "name": "Telekinesis",
+    "rows": [
+      "5lb/10ft/5mph",
+      "10lb/20ft/10mph",
+      "20lb/30ft/15mph",
+      "40lb/50ft/20mph",
+      "80lb/75ft/25mph",
+      "160lb/100ft/30mph",
+      "320lb/150ft/40mph",
+      "640lb/200ft/50mph",
+      "1,280lb/300ft/60mph",
+      "2,560lb/500ft/75mph",
+      "5,120lb/750ft/90mph",
+      "10,240lb/1,000ft/110mph",
+      "20,480lb/1,500ft/135mph",
+      "40,960lb/2,000ft/165mph",
+      "81,920lb/3,000ft/200mph",
+      "163,840lb/1mi/250mph"
+    ],
+    "tiers": [
+      [
+        1,
+        3,
+        "1 independent target; simple directional movement."
+      ],
+      [
+        4,
+        6,
+        "2 targets; rotation/coordinated positioning."
+      ],
+      [
+        7,
+        9,
+        "4 targets; fine manipulation/controlled acceleration."
+      ],
+      [
+        10,
+        12,
+        "8 targets; complex multitasking/precision."
+      ],
+      [
+        13,
+        15,
+        "16 targets; exceptional coordination."
+      ],
+      [
+        16,
+        16,
+        "32 targets; extremely sophisticated simultaneous control."
+      ]
+    ],
+    "labels": "Total Load / Range / Max Speed",
+    "description": "Move/manipulate matter at range through mental force.",
+    "full": "CORE: Move/manipulate matter at range through mental force.\n\nSTRENGTH = Total Load / Range / Max Speed\n\n1 5lb/10ft/5mph\n\n2 10lb/20ft/10mph\n\n3 20lb/30ft/15mph\n\n4 40lb/50ft/20mph\n\n5 80lb/75ft/25mph\n\n6 160lb/100ft/30mph\n\n7 320lb/150ft/40mph\n\n8 640lb/200ft/50mph\n\n9 1,280lb/300ft/60mph\n\n10 2,560lb/500ft/75mph\n\n11 5,120lb/750ft/90mph\n\n12 10,240lb/1,000ft/110mph\n\n13 20,480lb/1,500ft/135mph\n\n14 40,960lb/2,000ft/165mph\n\n15 81,920lb/3,000ft/200mph\n\n16 163,840lb/1mi/250mph\n\nSKILL:\n\n1–3: 1 independent target; simple directional movement.\n\n4–6: 2 targets; rotation/coordinated positioning.\n\n7–9: 4 targets; fine manipulation/controlled acceleration.\n\n10–12: 8 targets; complex multitasking/precision.\n\n13–15: 16 targets; exceptional coordination.\n\n16: 32 targets; extremely sophisticated simultaneous control.\n\nRULES: Total Load is shared. Force can lift, hold, push, pull, redirect, throw, shape movement, and manipulate. Force matches intended effect; holding/lifting does not automatically crush. Living/unwilling targets use normal hostile-effect defenses. Whole-body control affects the body rather than automatically manipulating internal organs. Routine sustained use remains active; demanding sustained use may require Endurance. Telekinetic Touch is learnable for touch-like precision/feedback.",
+    "icon": "✦"
+  },
+  {
+    "name": "Teleportation",
+    "rows": [
+      "5lb/30ft/40mph",
+      "10lb/100ft/60mph",
+      "20lb/300ft/80mph",
+      "40lb/1,000ft/100mph",
+      "80lb/1mi/130mph",
+      "160lb/5mi/180mph",
+      "320lb/25mi/250mph",
+      "640lb/100mi/350mph",
+      "1,280lb/500mi/450mph",
+      "2,560lb/2,500mi/550mph",
+      "5,120lb/10,000mi/650mph",
+      "10,240lb/25,000mi/850mph",
+      "20,480lb/100,000mi/1,200mph",
+      "40,960lb/250,000mi/2,500mph",
+      "81,920lb/10million mi/10,000mph",
+      "163,840lb/30million mi/25,000mph"
+    ],
+    "tiers": [
+      [
+        1,
+        3,
+        "1"
+      ],
+      [
+        4,
+        6,
+        "2"
+      ],
+      [
+        7,
+        9,
+        "4"
+      ],
+      [
+        10,
+        12,
+        "8"
+      ],
+      [
+        13,
+        15,
+        "16"
+      ],
+      [
+        16,
+        16,
+        "32"
+      ]
+    ],
+    "labels": "Additional Mass / Range / Maximum Velocity Change",
+    "description": "Instant relocation without traversing intervening distance. Self plus ordinary worn/carried gear requires no additional mass allowance.",
+    "full": "CORE: Instant relocation without traversing intervening distance. Self plus ordinary worn/carried gear requires no additional mass allowance.\n\nSTRENGTH = Additional Mass / Range / Maximum Velocity Change\n\n1 5lb/30ft/40mph\n\n2 10lb/100ft/60mph\n\n3 20lb/300ft/80mph\n\n4 40lb/1,000ft/100mph\n\n5 80lb/1mi/130mph\n\n6 160lb/5mi/180mph\n\n7 320lb/25mi/250mph\n\n8 640lb/100mi/350mph\n\n9 1,280lb/500mi/450mph\n\n10 2,560lb/2,500mi/550mph\n\n11 5,120lb/10,000mi/650mph\n\n12 10,240lb/25,000mi/850mph\n\n13 20,480lb/100,000mi/1,200mph\n\n14 40,960lb/250,000mi/2,500mph\n\n15 81,920lb/10million mi/10,000mph\n\n16 163,840lb/30million mi/25,000mph\n\nSKILL targets:\n\n1–3: 1\n\n4–6: 2\n\n7–9: 4\n\n10–12: 8\n\n13–15: 16\n\n16: 32\n\nTECHNIQUES: Self, Pull, Push, Swap, Selective Transport.\n\nRULES: Default teleportation preserves velocity. Strength Velocity Change allows altering velocity during teleportation. Blocked arrival aborts safely. An unwilling target may evade the teleportation lock by Speed-based movement before the instantaneous effect takes hold. Once locked, ordinary Strength or Endurance does not resist relocation. Selective Transport can select distinct identifiable objects/substances; continuous solids remain continuous unless an established capability permits otherwise.",
+    "icon": "◎"
+  },
+  {
+    "name": "Extradimensional Space",
+    "rows": [
+      "1ft³/6in/10ft",
+      "4ft³/1ft/30ft",
+      "16ft³/2ft/100ft",
+      "64ft³/3ft/300ft",
+      "256ft³/4ft/1,000ft",
+      "1,000ft³/6ft/1mi",
+      "4,000ft³/8ft/5mi",
+      "16,000ft³/12ft/25mi",
+      "64,000ft³/20ft/100mi",
+      "250,000ft³/30ft/500mi",
+      "1million ft³/50ft/2,500mi",
+      "4million ft³/75ft/10,000mi",
+      "16million ft³/100ft/25,000mi",
+      "64million ft³/200ft/250,000mi",
+      "256million ft³/500ft/1million mi",
+      "1billion ft³/1,000ft/30million mi"
+    ],
+    "tiers": [],
+    "labels": "Total Interior Volume / Largest Opening / Spatial Separation",
+    "description": "Create and maintain real extradimensional space where ordinary physical space does not exist.",
+    "full": "CORE: Create and maintain real extradimensional space where ordinary physical space does not exist.\n\nSTRENGTH = Total Interior Volume / Largest Opening / Spatial Separation\n\n1 1ft³/6in/10ft\n\n2 4ft³/1ft/30ft\n\n3 16ft³/2ft/100ft\n\n4 64ft³/3ft/300ft\n\n5 256ft³/4ft/1,000ft\n\n6 1,000ft³/6ft/1mi\n\n7 4,000ft³/8ft/5mi\n\n8 16,000ft³/12ft/25mi\n\n9 64,000ft³/20ft/100mi\n\n10 250,000ft³/30ft/500mi\n\n11 1million ft³/50ft/2,500mi\n\n12 4million ft³/75ft/10,000mi\n\n13 16million ft³/100ft/25,000mi\n\n14 64million ft³/200ft/250,000mi\n\n15 256million ft³/500ft/1million mi\n\n16 1billion ft³/1,000ft/30million mi\n\nMaximum Single Expansion, PLAYTEST:\n\n1–16 = 1, 2, 8, 32, 128, 500, 2,000, 8,000, 32,000, 125,000, 500,000, 2million, 8million, 32million, 128million, 500million ft³.\n\nSKILL active openings:\n\n1–3: 1\n\n4–6: 2 (each initially accessing a different space)\n\n7–9: 4\n\n10–12: 8\n\n13–15: 16\n\n16: 32\n\nRULES: Total maintained interior volume shares Strength capacity. Potential entrances may be established broadly; Skill limits simultaneously active/open entrances. Multiple entrances may connect to the same space. Direct portal connections use negligible interior volume. Spaces persist while allocated and need no concentration. Sealing preserves contents and allocated volume. Occupied/nonempty space remains real while maintained. Spaces/openings may be anchored or mobile. Continuous Connection allows matter, energy and signals to remain continuous through openings. Closing an opening intersecting matter can physically sever it; hostile use follows normal combat/defense rules. Moving portals provide spatial access rather than unlimited mechanical force. Long-distance travel through compressed space is an actual journey. Initial atmosphere/environment derives from surroundings and is finite; improved habitat control may be learned. Momentum is preserved by default; exit orientation can redirect direction rather than speed.\n\nDOMAIN AND ACCESS: Unlimited established closed access points may exist; only simultaneous OPEN openings count toward Skill limits. At Skill 7+, distribute active openings among spaces freely. The creator designs domain architecture, environments, matter/energy, inhabitants or servants, permissions, passwords, and internal conditions within the Power's capacity. Manifested domain matter generally dissolves outside; nourishment, hydration, and healing already received within remain effective. Accessing other dimensions may require a Skill check; navigating uses Cleverness + Skill. Temporarily bending another dimension's rules uses Brilliance + Strength or Cleverness + Skill as appropriate; permanently altering those rules calls for a Strength check. Extradimensional Space does not automatically confer time travel.",
+    "icon": "⬡"
+  },
+  {
+    "name": "Elemental Manipulation",
+    "rows": [],
+    "tiers": [],
+    "labels": "Power Strength",
+    "description": "Control any known element already present. Elements: Earth, Air, Fire, Water, Light, Sound, Shadow, Force. Basic control includes moving, redirecting, gathering, dispersing, shaping, concentrating, spreading, offense, defense, barriers and reasonable utility.",
+    "full": "Use the complete authoritative ELEMENTAL MANIPULATION section already contained in Miriam’s Extra Details.\n\nCORE: Control any known element already present. Elements: Earth, Air, Fire, Water, Light, Sound, Shadow, Force. Basic control includes moving, redirecting, gathering, dispersing, shaping, concentrating, spreading, offense, defense, barriers and reasonable utility.\n\nStarting element is free. Development Choices occur at Skill 1,4,7,10,13,16 with cumulative choices 1,2,3,5,7,9. Choices purchase additional elements or eligible advanced developments.\n\nAdvanced chain:\n\nGeneration & Depletion\n\n→ Summoning → Elemental Body → Elemental Passage\n\n→ Absorption → Restoration\n\n→ Absorption → Assimilation → Transmutation → Advanced Transmutation\n\nApply all detailed prerequisites, Elemental Body, Passage, Restoration, generation/depletion and other rules from Miriam’s existing Elemental section.",
+    "icon": "◈"
+  },
+  {
+    "name": "Illusions",
+    "rows": [
+      "5x5ft/5ft/30ft/1/1min",
+      "10x10/10ft/60ft/1/5min",
+      "15x15/15ft/100ft/1/15min",
+      "20x20/20ft/150ft/1/30min",
+      "30x30/30ft/250ft/2/1hr",
+      "40x40/40ft/500ft/2/2hr",
+      "60x60/60ft/1,000ft/3/4hr",
+      "100x100/100ft/1mi/3/8hr",
+      "150x150/150ft/2mi/4/12hr",
+      "250x250/250ft/5mi/4/1day",
+      "500x500/500ft/10mi/5/3days",
+      "1,000x1,000/1,000ft/25mi/5/1week",
+      "½sqmi/1mi/50mi/6/1month",
+      "1sqmi/2mi/100mi/6/3months",
+      "5sqmi/5mi/500mi/8/1year",
+      "25sqmi/10mi/1,000mi/10/indefinite"
+    ],
+    "tiers": [
+      [
+        1,
+        3,
+        "Visual OR auditory."
+      ],
+      [
+        4,
+        6,
+        "Improved detail, movement and timing."
+      ],
+      [
+        7,
+        9,
+        "Visual AND auditory."
+      ],
+      [
+        10,
+        12,
+        "Add one sensory channel; conditional behaviors; Set Illusion."
+      ],
+      [
+        13,
+        15,
+        "Add two additional sensory channels; sophisticated autonomous behavior."
+      ],
+      [
+        16,
+        16,
+        "Remaining sensory capabilities; intelligent simulations."
+      ]
+    ],
+    "labels": "Area / Height / Range / Separate Illusions / Duration",
+    "description": "Create convincing sensory phenomena. Illusions simulate perception rather than generating ordinary physical force.",
+    "full": "CORE: Create convincing sensory phenomena. Illusions simulate perception rather than generating ordinary physical force.\n\nSTRENGTH = Area / Height / Range / Separate Illusions / Duration\n\n1 5x5ft/5ft/30ft/1/1min\n\n2 10x10/10ft/60ft/1/5min\n\n3 15x15/15ft/100ft/1/15min\n\n4 20x20/20ft/150ft/1/30min\n\n5 30x30/30ft/250ft/2/1hr\n\n6 40x40/40ft/500ft/2/2hr\n\n7 60x60/60ft/1,000ft/3/4hr\n\n8 100x100/100ft/1mi/3/8hr\n\n9 150x150/150ft/2mi/4/12hr\n\n10 250x250/250ft/5mi/4/1day\n\n11 500x500/500ft/10mi/5/3days\n\n12 1,000x1,000/1,000ft/25mi/5/1week\n\n13 ½sqmi/1mi/50mi/6/1month\n\n14 1sqmi/2mi/100mi/6/3months\n\n15 5sqmi/5mi/500mi/8/1year\n\n16 25sqmi/10mi/1,000mi/10/indefinite\n\nSKILL:\n\n1–3: Visual OR auditory.\n\n4–6: Improved detail, movement and timing.\n\n7–9: Visual AND auditory.\n\n10–12: Add one sensory channel; conditional behaviors; Set Illusion.\n\n13–15: Add two additional sensory channels; sophisticated autonomous behavior.\n\n16: Remaining sensory capabilities; intelligent simulations.\n\nSET ILLUSION Skill10+: Anchor illusion to location/object/area and release it from active control/count. It persists according to its programmed behavior rather than normal duration.\n\nRULES: Knowing an illusion is false does not make it invisible. Investigation occurs when observers have reason to question it. Physical evidence can reveal its nature. Touch can simulate texture and temporary resistance but cannot provide sustained physical support, restraint, protection or mechanical work; continued force passes through after approximately 6–10 seconds. Illusions have major combat utility through concealment, decoys, false terrain, false threats, sensory masking, misleading positions and targeting information.\n\nADDITIONAL EFFECTS: A coherent multisensory illusion counts as one illusion. Camouflage and invisibility are sophisticated sensory techniques. Illusions can inflict actual energy-based harm at Power Strength −3, or provide physically appropriate defense at Strength −3 (or −2 where particularly fitting). MASTERY OF REALITY / ILLUSORY ACTUALIZATION requires Strength 13+: at Skill 14 an extreme-effort check can briefly actualize an illusion; at Skill 15 an extreme-effort check can sustain actualization for up to half normal duration; at Skill 16 actualization is reliable for full duration. Actualized matter is physically real during its existence; lasting consequences of its actions remain after it disappears.",
+    "icon": "◉"
+  },
+  {
+    "name": "Flight",
+    "rows": [
+      "15mph/20lb/100ft",
+      "25/40/300ft",
+      "40/80/1,000ft",
+      "60/160/3,000ft",
+      "90/320/5,000ft",
+      "130/640/10,000ft",
+      "180/1,280/15,000ft",
+      "250/2,560/20,000ft",
+      "350/5,120/30,000ft",
+      "500/10,240/40,000ft",
+      "650/20,480/50,000ft",
+      "850/40,960/60,000ft",
+      "1,200/81,920/80,000ft",
+      "2,500/163,840/100,000ft",
+      "10,000/327,680/250mi",
+      "25,000/655,360/no power altitude ceiling"
+    ],
+    "tiers": [
+      [
+        1,
+        3,
+        "Basic controlled flight, including safe carrying of passengers within lift capacity."
+      ],
+      [
+        4,
+        6,
+        "Improved maneuvering, hovering, load and passenger handling."
+      ],
+      [
+        7,
+        9,
+        "Precision braking and rescue maneuvers; sustained passenger flight at roughly half rated speed, with short full-speed hops when appropriate checks succeed."
+      ],
+      [
+        10,
+        12,
+        "Full-speed passenger Flight Field; independent flight granted to one other."
+      ],
+      [
+        13,
+        15,
+        "Multiple independently flying recipients and advanced field coordination."
+      ],
+      [
+        16,
+        16,
+        "Coordinated group/master-level flight control."
+      ]
+    ],
+    "labels": "Speed / Extra Lift / Altitude",
+    "description": "True powered flight.",
+    "full": "CORE: True powered flight.\n\nSTRENGTH = Speed / Extra Lift / Altitude\n\n1 15mph/20lb/100ft\n\n2 25/40/300ft\n\n3 40/80/1,000ft\n\n4 60/160/3,000ft\n\n5 90/320/5,000ft\n\n6 130/640/10,000ft\n\n7 180/1,280/15,000ft\n\n8 250/2,560/20,000ft\n\n9 350/5,120/30,000ft\n\n10 500/10,240/40,000ft\n\n11 650/20,480/50,000ft\n\n12 850/40,960/60,000ft\n\n13 1,200/81,920/80,000ft\n\n14 2,500/163,840/100,000ft\n\n15 10,000/327,680/250mi\n\n16 25,000/655,360/no power altitude ceiling\n\nSKILL:\n1–3: Basic controlled flight, including safe carrying of passengers within lift capacity.\n4–6: Improved maneuvering, hovering, load and passenger handling.\n7–9: Precision braking and rescue maneuvers; sustained passenger flight at roughly half rated speed, with short full-speed hops when appropriate checks succeed.\n10–12: Full-speed passenger Flight Field; independent flight granted to one other.\n13–15: Multiple independently flying recipients and advanced field coordination.\n16: Coordinated group/master-level flight control.\n\nRULES: Within the Strength Safe Altitude, flight automatically protects the flyer from environmental conditions caused by altitude and powered flight, including speed-related wind, breathing, pressure and temperature stresses. This does not protect against unrelated attacks or hazards. Flight Field protects carried passengers according to Skill; Skill 10+ may project a protective field without granting flight. Granted flight persists if the granter becomes unconscious and provides safe descent. Flight maneuvers and dodges use Speed + Flight Skill. Flight through water operates at approximately one Strength speed rank lower; mud, oil, loose sand or snow at two or more ranks lower; compacted particulate media at three or more lower; solid matter is ordinarily impassable. At Skill 13+ Spiral Penetration may drill/displace physical material using appropriate checks and with realistic hazards. Flight and Field may operate separately.",
+    "icon": "➤"
+  },
+  {
+    "name": "Manifestation",
+    "rows": [
+      "5lb/Touch",
+      "10lb/5ft",
+      "20lb/10ft",
+      "40lb/20ft",
+      "80lb/30ft",
+      "160lb/50ft",
+      "320lb/75ft",
+      "640lb/100ft",
+      "1,280lb/150ft",
+      "2,560lb/250ft",
+      "5,120lb/500ft",
+      "10,240lb/1,000ft",
+      "20,480lb/1mi",
+      "40,960lb/5mi",
+      "81,920lb/25mi",
+      "163,840lb/100mi"
+    ],
+    "tiers": [],
+    "labels": "Total Active Mass / Range",
+    "description": "Create temporary real matter, functional objects, sets, and—at sufficient Skill—established living beings with independent personalities, memories, and expertise. The Power is limited by total active mass and creation range, not object counts or design slots.",
+    "full": "CORE: Create temporary real matter, functional objects, sets, and—at sufficient Skill—established living beings with independent personalities, memories, and expertise. The Power is limited by total active mass and creation range, not object counts or design slots.\nSTRENGTH = Total Active Mass / Range\n1 5lb/Touch\n2 10lb/5ft\n3 20lb/10ft\n4 40lb/20ft\n5 80lb/30ft\n6 160lb/50ft\n7 320lb/75ft\n8 640lb/100ft\n9 1,280lb/150ft\n10 2,560lb/250ft\n11 5,120lb/500ft\n12 10,240lb/1,000ft\n13 20,480lb/1mi\n14 40,960lb/5mi\n15 81,920lb/25mi\n16 163,840lb/100mi\nSKILL = Capability / Normal Duration\n1–3: Simple objects and functional sets / 10min.\n4–6: Familiar mechanisms and working assemblies / 1hr.\n7–9: Fitted or triggered creations and automation / 8hr.\n10–12: Complex creations, established beings, variable forms and independent workers / 24hr.\n13–15: Advanced coordinated teams, sophisticated autonomous creations / 7days.\n16: Exceptional mastery / 30days.\nRULES: No numerical limit on designs or individual objects; total active mass is shared. Functional sets are judged by mass and meaningful purpose. Created beings may know things the creator does not and retain established memories, relationships and expertise between manifestations. The user determines their offstage consciousness model. Purpose-aligned manifested workers can work tirelessly. Consecutive uninterrupted renewals shorten maximum duration by one Skill tier per renewal; dismissing and remanifesting immediately restores full normal duration with no cooldown. Manifested matter fades when dismissed or expired. Consumed food, water or air, released energy, and permanent results produced with ordinary materials persist. Effects already caused are not reversed when manifestations end. Destroyed or consumed matter frees capacity. Voluntary dismissal is allowed.",
+    "icon": "✧"
+  },
+  {
+    "name": "Fabrication",
+    "rows": [
+      "1ft/1ft³/Touch",
+      "2ft/8ft³/5ft",
+      "3ft/27ft³/10ft",
+      "4ft/64ft³/20ft",
+      "5ft/125ft³/30ft",
+      "6ft/216ft³/50ft",
+      "9ft/729ft³/75ft",
+      "12ft/1,728ft³/100ft",
+      "15ft/3,375ft³/150ft",
+      "18ft/5,832ft³/250ft",
+      "24ft/13,824ft³/500ft",
+      "30ft/27,000ft³/1,000ft",
+      "38ft/54,872ft³/1mi",
+      "46ft/97,336ft³/5mi",
+      "56ft/175,616ft³/25mi",
+      "66ft/287,496ft³/100mi"
+    ],
+    "tiers": [
+      [
+        1,
+        3,
+        "Reshape, join, separate, repair and simple manufacturing."
+      ],
+      [
+        4,
+        6,
+        "Precision mechanisms, sorting and detailed assemblies."
+      ],
+      [
+        7,
+        9,
+        "Machinery, electronics, intricate composites and chemical processing."
+      ],
+      [
+        10,
+        12,
+        "Molecular chemistry, computers and microscopic fabrication."
+      ],
+      [
+        13,
+        15,
+        "Atom-by-atom assembly using existing chemical elements."
+      ],
+      [
+        16,
+        16,
+        "Exceptional manufacturing mastery. No numerical designs limit."
+      ]
+    ],
+    "labels": "Maximum Cube Side / Volume / Range",
+    "description": "Permanently repair, reshape, separate and manufacture existing nonliving matter. Fabrication creates no matter. Mass/elements are conserved. Chemical/atomic rearrangement is possible; elemental transmutation is outside ordinary Fabrication.",
+    "full": "CORE: Permanently repair, reshape, separate and manufacture existing nonliving matter. Fabrication creates no matter. Mass/elements are conserved. Chemical/atomic rearrangement is possible; elemental transmutation is outside ordinary Fabrication.\n\nSTRENGTH = Maximum Cube Side / Volume / Range\n\n1 1ft/1ft³/Touch\n\n2 2ft/8ft³/5ft\n\n3 3ft/27ft³/10ft\n\n4 4ft/64ft³/20ft\n\n5 5ft/125ft³/30ft\n\n6 6ft/216ft³/50ft\n\n7 9ft/729ft³/75ft\n\n8 12ft/1,728ft³/100ft\n\n9 15ft/3,375ft³/150ft\n\n10 18ft/5,832ft³/250ft\n\n11 24ft/13,824ft³/500ft\n\n12 30ft/27,000ft³/1,000ft\n\n13 38ft/54,872ft³/1mi\n\n14 46ft/97,336ft³/5mi\n\n15 56ft/175,616ft³/25mi\n\n16 66ft/287,496ft³/100mi\n\nSKILL:\n1–3: Reshape, join, separate, repair and simple manufacturing.\n4–6: Precision mechanisms, sorting and detailed assemblies.\n7–9: Machinery, electronics, intricate composites and chemical processing.\n10–12: Molecular chemistry, computers and microscopic fabrication.\n13–15: Atom-by-atom assembly using existing chemical elements.\n16: Exceptional manufacturing mastery.\nNo numerical designs limit.\n\nRULES: Processing time is approximately 10 minutes for an ordinary substantial job, seconds for trivial tasks, and longer for especially intricate work. Familiar straightforward work succeeds normally. For unfamiliar complexity use Brilliance + Power Skill for technical work, Cleverness + Power Skill for improvisation, or research and instruction to reduce uncertainty. Mixed raw materials may be separated. Nonliving matter only; dead/harvested biological material qualifies. Restoration requires available material. Fabricated objects are permanent.",
+    "icon": "⚒"
+  },
+  {
+    "name": "Alternate Movement",
+    "rows": [
+      "10mph",
+      "15",
+      "20",
+      "30",
+      "45",
+      "60",
+      "90",
+      "120",
+      "180",
+      "250",
+      "400",
+      "600",
+      "900",
+      "1,200",
+      "1,800",
+      "2,500"
+    ],
+    "tiers": [
+      [
+        1,
+        3,
+        "Basic supported movement methods and adaptations, with passengers or cargo when physically appropriate."
+      ],
+      [
+        4,
+        6,
+        "Improved handling, braking, turns, passengers and transitions."
+      ],
+      [
+        7,
+        9,
+        "Seamless movement changes, scouting/communication, coordinated movement, speed-relative perception and action; brief stationary bursts of rapid action."
+      ],
+      [
+        10,
+        12,
+        "Combined methods, advanced momentum and environment handling, larger groups and precise high-speed activity."
+      ],
+      [
+        13,
+        15,
+        "Three independent advanced techniques, selectable in any order: A Phasing; B Dimensional/Astral Travel; C Dream Travel."
+      ],
+      [
+        16,
+        16,
+        "Exceptional integrated movement mastery."
+      ]
+    ],
+    "labels": "Max Speed",
+    "description": "Adopt adaptive protoplasmic/energy travel forms optimized for non-flight movement: running/crawling, climbing, swimming, burrowing/tunneling, swinging, skating, bicycle/skateboard-like travel, surfing, surface-bound hover, leaping and similar supported movement. Forms require appropriate medium/support. Flight is a separate Power.",
+    "full": "CORE: Adopt adaptive protoplasmic/energy travel forms optimized for non-flight movement: running/crawling, climbing, swimming, burrowing/tunneling, swinging, skating, bicycle/skateboard-like travel, surfing, surface-bound hover, leaping and similar supported movement. Forms require appropriate medium/support. Flight is a separate Power.\n\nSTRENGTH Max Speed:\n\n1 10mph\n\n2 15\n\n3 20\n\n4 30\n\n5 45\n\n6 60\n\n7 90\n\n8 120\n\n9 180\n\n10 250\n\n11 400\n\n12 600\n\n13 900\n\n14 1,200\n\n15 1,800\n\n16 2,500\n\nSKILL:\n1–3: Basic supported movement methods and adaptations, with passengers or cargo when physically appropriate.\n4–6: Improved handling, braking, turns, passengers and transitions.\n7–9: Seamless movement changes, scouting/communication, coordinated movement, speed-relative perception and action; brief stationary bursts of rapid action.\n10–12: Combined methods, advanced momentum and environment handling, larger groups and precise high-speed activity.\n13–15: Three independent advanced techniques, selectable in any order: A Phasing; B Dimensional/Astral Travel; C Dream Travel.\n16: Exceptional integrated movement mastery.\n\nLEAPING PLAYTEST = Maximum Upward / Across or Safe Controlled Descent\n\n1 10/15ft\n\n2 15/25\n\n3 25/40\n\n4 40/60\n\n5 60/90\n\n6 100/150\n\n7 150/225\n\n8 250/375\n\n9 400/600\n\n10 600/900\n\n11 1,000/1,500\n\n12 1,500/2,250\n\n13 0.5mi/0.75mi\n\n14 1mi/1.5mi\n\n15 2mi/3mi\n\n16 4mi/6mi\n\nRULES: All physically supported movement methods are available, including running, swimming, climbing, tunneling, gliding, jumping, skating, swinging and suitable temporary movement aids; these aids are not general-purpose Manifestation. The Power supplies necessary environmental protection and tireless movement during its use. The character can perceive, respond and perform fine physical actions at movement speed. Maneuvering and dodging use Speed + Alternate Movement Skill. Controlled leaps include safe landing/descent. Ordinary unrestricted Flight and Teleportation remain separate Powers.",
+    "icon": "↗"
+  },
+  {
+    "name": "ESP",
+    "rows": [
+      "100ft/30ft/10ft/1sec",
+      "300ft/100ft/20ft/10sec",
+      "1,000ft/300ft/30ft/1min",
+      "1mi/1,000ft/50ft/10min",
+      "3mi/1mi/75ft/1hr",
+      "10mi/5mi/100ft/6hr",
+      "25mi/25mi/150ft/1day",
+      "50mi/100mi/200ft/3days",
+      "100mi/500mi/300ft/1week",
+      "250mi/2,500mi/500ft/1month",
+      "500mi/10,000mi/750ft/6months",
+      "1,000mi/25,000mi/1,000ft/1year",
+      "2,500mi/100,000mi/1mi/5years",
+      "5,000mi/250,000mi/5mi/25years",
+      "10,000mi/1million mi/25mi/100years",
+      "25,000mi/30million mi/100mi/1,000years"
+    ],
+    "tiers": [],
+    "labels": "Enhanced-Sense Reach / Sixth-Sense Range / Scan Cube Side / Temporal Reach",
+    "description": "Enhanced ordinary senses plus development of supernatural Sixth Senses.",
+    "full": "CORE: Enhanced ordinary senses plus development of supernatural Sixth Senses.\n\nSIXTH SENSE earliest eligibility:\n\nSpatial Awareness Skill4\n\nPresence Sense Skill4\n\nAnomaly Sense Skill4\n\nPenetrating Sense Skill6\n\nRemote Viewing Skill8\n\nPsychometry Skill10\n\nPrecognition Skill12\n\nChoose one eligible Sixth Sense at Skill4,6,8,10,12,14,16; eventually all seven.\n\nSTRENGTH = Enhanced-Sense Reach / Sixth-Sense Range / Scan Cube Side / Temporal Reach\n\n1 100ft/30ft/10ft/1sec\n\n2 300ft/100ft/20ft/10sec\n\n3 1,000ft/300ft/30ft/1min\n\n4 1mi/1,000ft/50ft/10min\n\n5 3mi/1mi/75ft/1hr\n\n6 10mi/5mi/100ft/6hr\n\n7 25mi/25mi/150ft/1day\n\n8 50mi/100mi/200ft/3days\n\n9 100mi/500mi/300ft/1week\n\n10 250mi/2,500mi/500ft/1month\n\n11 500mi/10,000mi/750ft/6months\n\n12 1,000mi/25,000mi/1,000ft/1year\n\n13 2,500mi/100,000mi/1mi/5years\n\n14 5,000mi/250,000mi/5mi/25years\n\n15 10,000mi/1million mi/25mi/100years\n\n16 25,000mi/30million mi/100mi/1,000years\n\nRULES: SENSORY SOVEREIGNTY is inherent from Skill 1: selectively adjust sensitivity, filter inputs, isolate or suppress channels, and recognize/defend against overload, deceptive sensory manipulation and hostile sensory interference. Skill improves control and defense. This does not prevent actual physical injury from a hazardous source. Remote Viewing can support learned disciplines from the remote viewpoint where logically possible; remote viewpoints do not chain into unlimited range. Targeting check when needed: 1d6+Cleverness+ESP Skill vs 13+applicable Dodge/Stealth; independently active defenses may stack. ESP may add +1 to Presence Push Through when plausible. Precognition reveals possible/probable futures; distant futures branch more heavily and actions change outcomes. Psychometry reads history/impressions; proximity/contact and emotional intensity improve information. It is informative rather than omniscient.",
+    "icon": "◉"
+  },
+  {
+    "name": "Telepathy",
+    "rows": [
+      "30ft/1/1 word per sec",
+      "100ft/2/1 sentence per sec",
+      "300ft/3/1 paragraph per sec",
+      "1,000ft/4/1 page per min",
+      "1mi/6/1 page per10sec",
+      "5mi/8/1 page per sec",
+      "25mi/12/1 chapter per sec",
+      "100mi/16/1 book per sec",
+      "500mi/24/10 books per sec",
+      "2,500mi/32/100 books per sec",
+      "10,000mi/48/1,000 books per sec",
+      "25,000mi/64/lifetime factual knowledge per min",
+      "100,000mi/100/lifetime factual knowledge per sec",
+      "250,000mi/200/lifetime memories per min",
+      "1million mi/500/lifetime memories per sec",
+      "30million mi/1,000/multiple lifetimes per sec"
+    ],
+    "tiers": [
+      [
+        1,
+        3,
+        "Projection/reception/basic empathy/one mind/simple conscious communication."
+      ],
+      [
+        4,
+        6,
+        "Rapid send/receive, nuanced empathy, familiar signatures, animal mindspeech/senses."
+      ],
+      [
+        7,
+        9,
+        "True two-way meaning, animal imprinting, contacts, basic multiperson communication, networked cognition begins."
+      ],
+      [
+        10,
+        12,
+        "Human sensory sharing, memory sharing, receive/learn knowledge and languages, open groups/basic private channels."
+      ],
+      [
+        13,
+        15,
+        "Deep scans, deliberate teaching/transfer, formative experiences, sophisticated channels/subgroups, advanced imprinting."
+      ],
+      [
+        16,
+        16,
+        "Whole-life rapport, rapid learning/teaching, large autonomous networks, exceptional coordination while identities remain distinct."
+      ]
+    ],
+    "labels": "Range / Minds / Information Transfer",
+    "description": "Direct mental communication, perception, sharing, teaching and networked cognition.",
+    "full": "CORE: Direct mental communication, perception, sharing, teaching and networked cognition.\n\nSTRENGTH = Range / Minds / Information Transfer\n\n1 30ft/1/1 word per sec\n\n2 100ft/2/1 sentence per sec\n\n3 300ft/3/1 paragraph per sec\n\n4 1,000ft/4/1 page per min\n\n5 1mi/6/1 page per10sec\n\n6 5mi/8/1 page per sec\n\n7 25mi/12/1 chapter per sec\n\n8 100mi/16/1 book per sec\n\n9 500mi/24/10 books per sec\n\n10 2,500mi/32/100 books per sec\n\n11 10,000mi/48/1,000 books per sec\n\n12 25,000mi/64/lifetime factual knowledge per min\n\n13 100,000mi/100/lifetime factual knowledge per sec\n\n14 250,000mi/200/lifetime memories per min\n\n15 1million mi/500/lifetime memories per sec\n\n16 30million mi/1,000/multiple lifetimes per sec\n\nSKILL:\n\n1–3: Projection/reception/basic empathy/one mind/simple conscious communication.\n\n4–6: Rapid send/receive, nuanced empathy, familiar signatures, animal mindspeech/senses.\n\n7–9: True two-way meaning, animal imprinting, contacts, basic multiperson communication, networked cognition begins.\n\n10–12: Human sensory sharing, memory sharing, receive/learn knowledge and languages, open groups/basic private channels.\n\n13–15: Deep scans, deliberate teaching/transfer, formative experiences, sophisticated channels/subgroups, advanced imprinting.\n\n16: Whole-life rapport, rapid learning/teaching, large autonomous networks, exceptional coordination while identities remain distinct.\n\nRULES: Throughput is shared among individualized communications; group broadcast sends the same information once. Mental awareness grows with Skill. Ordinary walls do not block telepathy; appropriate exotic/psychic shielding can. Unwilling mental access: 1d6+Presence+Telepathy Skill vs 1d6+Presence; telepath must exceed, ties favor defender; appropriate defenses may add. Memories are subjective. Sleeping/unconscious minds can be contacted. Network cognition coordinates minds rather than multiplying intelligence. Mental editing generally overlays/suppresses rather than automatically destroying memories. Advanced networks may operate through the telepath and permit originator awareness. Mental healing can address trauma, memory, psychic shock and some neurological dysfunction; destroyed physical tissue belongs primarily to Biological Manipulation.\n\nATTRIBUTE ENHANCEMENT:\n\nChoose one Mental Attribute for full bonus and one Physical for half bonus rounded up.\n\nSkill1–3 +1/+1\n\n4–6 +2/+1\n\n7–9 +3/+2\n\n10–12 +4/+2\n\n13–15 +5/+3\n\n16 +6/+3\n\nCharacter may take less or omit secondary. Enhancement optimizes neural/mental function and grants no permanent education/experience. Physical enhancement uses neural recruitment, reaction, motor signaling and bodily regulation rather than rebuilding the body. Normal Attribute ceiling16.\n\nMENTAL SOVEREIGNTY (inherent from Skill 1): The telepath recognizes their own uninfluenced mental state and detects external thoughts, emotions, suggestions, and changes induced by drugs, alcohol, hypnosis or psychic influence. The telepath may voluntarily shift between Pure Mind (unclouded thought) and Influenced Mind while retaining awareness; this does not physically remove toxins. Consensual dream/memory sharing and mental invisibility develop with Skill. A geas is only a voluntarily accepted oath, never forced obedience. Established links can remain active during sleep; urgent messages may wake the recipient telepath. Sharing memories does not automatically rewrite them.",
+    "icon": "⌁"
+  },
+  {
+    "name": "Biological Manipulation",
+    "rows": [
+      "Touch/1/2x/10min",
+      "5ft/2/4x/20min",
+      "10ft/3/8x/40min",
+      "20ft/4/16x/1hr",
+      "30ft/6/32x/2hr",
+      "50ft/8/64x/4hr",
+      "75ft/12/128x/8hr",
+      "100ft/16/256x/12hr",
+      "150ft/24/512x/1day",
+      "250ft/32/1,000x/2days",
+      "500ft/48/2,000x/4days",
+      "1,000ft/64/5,000x/1week",
+      "1mi/100/10,000x/2weeks",
+      "5mi/200/25,000x/1month",
+      "25mi/500/50,000x/3months",
+      "100mi/1,000/100,000x/1year"
+    ],
+    "tiers": [
+      [
+        1,
+        3,
+        "Tier I: one organism; first aid/natural healing/optimization."
+      ],
+      [
+        4,
+        6,
+        "Tier II: multiple same-species/effect; medical repair; enhanced existing biological function."
+      ],
+      [
+        7,
+        9,
+        "Tier III: multiple species where applicable; major repair; new temporary functional structures."
+      ],
+      [
+        10,
+        12,
+        "Tier IV: mixed individualized targets; regeneration of missing tissue/organs/eyes/digits/recent limbs; coordinated adaptation packages."
+      ],
+      [
+        13,
+        15,
+        "Tier V: ecosystem-scale coordination; extreme restoration including catastrophic trauma/recent clinical death; extraordinary adaptations."
+      ],
+      [
+        16,
+        16,
+        "Mastery; sophisticated multiple radical but viable biological systems; same-person reconstruction from sufficient remains/information well beyond ordinary resuscitation."
+      ]
+    ],
+    "labels": "Range / Recipients / Natural-Healing Acceleration / Base Duration",
+    "description": "Healing, biological regulation, adaptation and limited biological alteration of existing living organisms. Controls/optimizes living processes while preserving fundamental organism identity/body plan.",
+    "full": "CORE: Healing, biological regulation, adaptation and limited biological alteration of existing living organisms. Controls/optimizes living processes while preserving fundamental organism identity/body plan.\n\nSTRENGTH = Range / Recipients / Natural-Healing Acceleration / Base Duration\n\n1 Touch/1/2x/10min\n\n2 5ft/2/4x/20min\n\n3 10ft/3/8x/40min\n\n4 20ft/4/16x/1hr\n\n5 30ft/6/32x/2hr\n\n6 50ft/8/64x/4hr\n\n7 75ft/12/128x/8hr\n\n8 100ft/16/256x/12hr\n\n9 150ft/24/512x/1day\n\n10 250ft/32/1,000x/2days\n\n11 500ft/48/2,000x/4days\n\n12 1,000ft/64/5,000x/1week\n\n13 1mi/100/10,000x/2weeks\n\n14 5mi/200/25,000x/1month\n\n15 25mi/500/50,000x/3months\n\n16 100mi/1,000/100,000x/1year\n\nSKILL:\n\n1–3 Tier I: one organism; first aid/natural healing/optimization.\n\n4–6 Tier II: multiple same-species/effect; medical repair; enhanced existing biological function.\n\n7–9 Tier III: multiple species where applicable; major repair; new temporary functional structures.\n\n10–12 Tier IV: mixed individualized targets; regeneration of missing tissue/organs/eyes/digits/recent limbs; coordinated adaptation packages.\n\n13–15 Tier V: ecosystem-scale coordination; extreme restoration including catastrophic trauma/recent clinical death; extraordinary adaptations.\n\n16: Mastery; sophisticated multiple radical but viable biological systems; same-person reconstruction from sufficient remains/information well beyond ordinary resuscitation.\n\nBIO SCAN: Maps a specific living body. Check reveals anatomy, injury, disease, tissues, circulation, nerves, organs, toxins, adaptations and differences. Successful scan provides biological knowledge for attempts on that individual; execution may still require a check. Scan accurately observes the individual but contextual knowledge distinguishes baseline variation, mutation, adaptation, disease or engineering.\n\nRULES: Healing progresses accelerate→repair→regenerate→reconstruct. Natural repair is permanent. Biological Regulation includes bleeding, shock, breathing, circulation, temperature, fatigue, recovery, immune response, toxins and infection. Adaptation creates temporary useful biological configurations. Limited alteration supports real surgery/disguise-scale biological changes. If a physical change could reasonably be achieved by surgery/medical procedure, Bio can potentially perform it directly. Power Skill supplies execution rather than automatic medical knowledge; background/research/instruction/observation/consultation supply knowledge. Major regeneration requires nutrients/raw biological resources; matter is not created. Time and physical condition influence extreme restoration. Death restoration returns the same organism/person. Advanced rejuvenation and age regulation are possible at sufficient Skill. Sustainable biological repair remains permanent; extraordinary transformations and genetic/anatomical enhancements last for the Strength Base Duration. A sufficiently skilled character may continually maintain personal rejuvenation and potentially avoid biological aging, without becoming invulnerable. Rejuvenated others resume ordinary aging after treatment. At advanced Skill, an autonomous maintenance regimen may sustain another person up to Strength Base Duration (one year at Strength 16), after which it requires renewal. Passive self-healing and reflexive stabilization against injury or shock operate even while unconscious; deliberate self-optimization remains a conscious choice.\n\nATTRIBUTE ENHANCEMENT:\n\nChoose one Physical Attribute for full bonus and one Mental for half bonus rounded up.\n\nSkill1–3 +1/+1\n\n4–6 +2/+1\n\n7–9 +3/+2\n\n10–12 +4/+2\n\n13–15 +5/+3\n\n16 +6/+3\n\nMay take less/omit secondary. Adaptation must biologically support chosen Attributes. Mental enhancement adds no knowledge, experience or personality. Normal Attribute ceiling16.",
+    "icon": "❀"
+  },
+  {
+    "name": "Temporal Manipulation",
+    "rows": [
+      "1sec/2x/1/10sec",
+      "3sec/3x/1/30sec",
+      "10sec/4x/1/1min",
+      "30sec/5x/2/3min",
+      "1min/10x/2/10min",
+      "3min/20x/3/30min",
+      "10min/30x/4/1hr",
+      "30min/50x/6/3hr",
+      "1hr/100x/8/6hr",
+      "3hr/200x/12/12hr",
+      "6hr/500x/16/1day",
+      "12hr/1,000x/24/3days",
+      "1day/2,000x/32/1week",
+      "2days/5,000x/48/2weeks",
+      "3days/10,000x/64/1month",
+      "7days/100,000x/100/1year"
+    ],
+    "tiers": [
+      [
+        1,
+        3,
+        "Rate and Hold."
+      ],
+      [
+        4,
+        6,
+        "Flow."
+      ],
+      [
+        7,
+        9,
+        "Advanced/selective Rate/Hold/Flow, biological applications, controlled reversals, anchored present, first Temporal Burst."
+      ],
+      [
+        10,
+        12,
+        "Traverse: actual time travel through continuous clock-running temporal movement while remaining physically situated and following Earth’s location."
+      ],
+      [
+        13,
+        15,
+        "Jump: instantaneous temporal-coordinate travel within Strength Reach; local rewind and advanced temporal coordination."
+      ],
+      [
+        16,
+        16,
+        "Outside Time: access to the basic space/state between seconds; details discovered through mastery."
+      ]
+    ],
+    "labels": "Temporal Reach / Rate / Targets / Maximum Stasis",
+    "description": "Manipulate temporal rate, stasis, flow and eventually travel through time.",
+    "full": "CORE: Manipulate temporal rate, stasis, flow and eventually travel through time.\n\nSTRENGTH = Temporal Reach / Rate / Targets / Maximum Stasis\n\n1 1sec/2x/1/10sec\n\n2 3sec/3x/1/30sec\n\n3 10sec/4x/1/1min\n\n4 30sec/5x/2/3min\n\n5 1min/10x/2/10min\n\n6 3min/20x/3/30min\n\n7 10min/30x/4/1hr\n\n8 30min/50x/6/3hr\n\n9 1hr/100x/8/6hr\n\n10 3hr/200x/12/12hr\n\n11 6hr/500x/16/1day\n\n12 12hr/1,000x/24/3days\n\n13 1day/2,000x/32/1week\n\n14 2days/5,000x/48/2weeks\n\n15 3days/10,000x/64/1month\n\n16 7days/100,000x/100/1year\n\nRate works reciprocally for acceleration or slowing. Stasis may be renewed.\n\nSKILL:\n\n1–3: Rate and Hold.\n\n4–6: Flow.\n\n7–9: Advanced/selective Rate/Hold/Flow, biological applications, controlled reversals, anchored present, first Temporal Burst.\n\n10–12: Traverse: actual time travel through continuous clock-running temporal movement while remaining physically situated and following Earth’s location.\n\n13–15: Jump: instantaneous temporal-coordinate travel within Strength Reach; local rewind and advanced temporal coordination.\n\n16: Outside Time: access to the basic space/state between seconds; details discovered through mastery.\n\nTEMPORAL BURST:\n\nSkill1–6 none.\n\n7–9 +1 extra turn.\n\n10–12 +2.\n\n13–15 +3.\n\n16 +4.\n\nExtra turns are full normal turns and may be flexibly scheduled.\n\nRecharge after using N extra turns = N + Nd6 rounds after burst round:\n\n+1 =2–7 rounds\n\n+2 =4–14\n\n+3 =6–21\n\n+4 =8–28\n\nTemporal powers remain usable during Burst. Recharge follows manipulator’s personal timeline and temporal travel does not reset it.\n\nGrant Burst:\n\nSelf automatic.\n\nGive all extras to one willing other: DC13; failure gives entire Burst to manipulator.\n\nSplit among multiple recipients: DC15; failure gives all extras to first named recipient.\n\nManipulator bears recharge for total extras.\n\nRULES: Travel to the past changes history and its consequences. The setting may use a mutable single timeline or branching timelines, but the traveler experiences the altered present as continuous reality, with no automatic evidence that a branch exists. The traveler retains personally experienced memories; other people generally remember the resulting history. Larger changes can have broader ripples. The GE does not announce or reveal timeline cosmology without an in-story reason. Traverse and Jump retain their established distinct movement methods and Strength Reach limits.\n\nHostile temporal effects use normal delivery/application defenses. Once successfully subjected, ordinary biology/Endurance does not independently resist time itself. Temporal fields affect the portion physically inside them; precise partial effects may be surgical. Connected objects continue mechanically interacting across temporal boundaries.\n\nStrength Reach remains maximum backward/forward travel reach through ordinary Temporal Manipulation; Skill16 Outside Time may later reveal exceptional possibilities.\n\nTEMPORAL INTERACTION AND FLOW: Accelerating or slowing one's time changes perception, thought, reflexes and physical action together. Objects and people directly interacted with participate as necessary for ordinary handling, opening doors, writing or carrying; do not add separate target bookkeeping for such interaction. Stasis entails no experienced passage of time. Flow reversal actually returns only the selected target or field to an earlier state while outside time continues forward. Rewinding an injured body can remove its wound without restoring torn clothing, spilled blood or environmental damage outside the field. Rewinding an exploded bomb can restore the bomb without undoing casualties or destruction beyond the chosen field. A reversed projectile can retrace its earlier path without returning a moved weapon. A sufficiently skilled manipulator may selectively preserve a reversed subject's memories; other Powers or exceptional mental abilities may help retain or reconstruct memories. Memory preservation or loss is not automatically universal.",
+    "icon": "◷"
+  },
+  {
+    "name": "Electromagnetic Manipulation",
+    "rows": [
+      "30ft/Minor/5x5ft",
+      "60ft/Minor/10x10",
+      "100ft/Moderate/15x15",
+      "150ft/Moderate/20x20",
+      "250ft/Strong/30x30",
+      "500ft/Strong/40x40",
+      "1,000ft/Powerful/60x60",
+      "1mi/Powerful/100x100",
+      "2mi/Heavy/150x150",
+      "5mi/Heavy/250x250",
+      "10mi/Extreme/500x500",
+      "25mi/Extreme/1,000x1,000",
+      "50mi/Massive/½sqmi",
+      "100mi/Massive/1sqmi",
+      "500mi/Extraordinary/5sqmi",
+      "1,000mi/Extraordinary/25sqmi"
+    ],
+    "tiers": [
+      [
+        1,
+        3,
+        "Reception: detect/hear radio/EM signals, identify frequencies/sources, basic electrical/magnetic/EM awareness."
+      ],
+      [
+        4,
+        6,
+        "Transmission: generate/transmit radio, reproduce received signals, wireless communication, basic electricity/magnetism/light manipulation."
+      ],
+      [
+        7,
+        9,
+        "Spectrum Control: broad spectrum from radio through microwave/IR/visible/UV and increasingly energetic radiation; radar, jamming, spoofing, directed electricity, practical magnetism, lasers."
+      ],
+      [
+        10,
+        12,
+        "Electromagnetic Engineering: sophisticated electronics interaction; computer communication through EM interfaces; simultaneous signals; imaging/sensing; electronic warfare; precision electrical/magnetic work."
+      ],
+      [
+        13,
+        15,
+        "Integrated EM Systems: sophisticated communications/sensor/media infrastructure; broad-spectrum simultaneous coordination; complex audio/video signals in real time; large technological networks."
+      ]
+    ],
+    "labels": "Range / Intensity / Maximum Area",
+    "description": "Control electromagnetic phenomena: electricity, magnetism, radio, microwaves, infrared, visible light, ultraviolet, X-rays, gamma radiation, related EM signals and technology.",
+    "full": "CORE: Control electromagnetic phenomena: electricity, magnetism, radio, microwaves, infrared, visible light, ultraviolet, X-rays, gamma radiation, related EM signals and technology.\n\nSTRENGTH = Range / Intensity / Maximum Area\n\n1 30ft/Minor/5x5ft\n\n2 60ft/Minor/10x10\n\n3 100ft/Moderate/15x15\n\n4 150ft/Moderate/20x20\n\n5 250ft/Strong/30x30\n\n6 500ft/Strong/40x40\n\n7 1,000ft/Powerful/60x60\n\n8 1mi/Powerful/100x100\n\n9 2mi/Heavy/150x150\n\n10 5mi/Heavy/250x250\n\n11 10mi/Extreme/500x500\n\n12 25mi/Extreme/1,000x1,000\n\n13 50mi/Massive/½sqmi\n\n14 100mi/Massive/1sqmi\n\n15 500mi/Extraordinary/5sqmi\n\n16 1,000mi/Extraordinary/25sqmi\n\nIntensity is descriptive because different EM phenomena use different physical measures. Strength determines how much EM energy/force can be controlled, generated, redirected, concentrated or dispersed.\n\nSKILL:\n\n1–3 Reception: detect/hear radio/EM signals, identify frequencies/sources, basic electrical/magnetic/EM awareness.\n\n4–6 Transmission: generate/transmit radio, reproduce received signals, wireless communication, basic electricity/magnetism/light manipulation.\n\n7–9 Spectrum Control: broad spectrum from radio through microwave/IR/visible/UV and increasingly energetic radiation; radar, jamming, spoofing, directed electricity, practical magnetism, lasers.\n\n10–12 Electromagnetic Engineering: sophisticated electronics interaction; computer communication through EM interfaces; simultaneous signals; imaging/sensing; electronic warfare; precision electrical/magnetic work.\n\n13–15 Integrated EM Systems: sophisticated communications/sensor/media infrastructure; broad-spectrum simultaneous coordination; complex audio/video signals in real time; large technological networks.\n\n16 EM Mastery: exceptional simultaneous spectrum control; sophisticated real-time sensing, synthesis, transmission and manipulation.\n\nTECHNOPATHIC INTERACTION:\n\nAt sufficient Skill, EM directly interfaces with electromagnetic/electronic systems. Cooperative ordinary technology generally requires no check. EM provides interface/control; knowledge and reasoning still matter.\n\nWhen challenged:\n\n1d6 + appropriate Mental Attribute + EM Power Skill.\n\nBrilliance: understand architecture, encryption, algorithms, unfamiliar/quantum technology.\n\nCleverness: intrusion, spoofing, exploitation, improvisation and unconventional routes.\n\nPresence: social interaction, persuasion, deception or grifting of sufficiently intelligent AI.\n\nTypical automated security Challenge:\n\nSimple/consumer 10\n\nProfessional 13\n\nHardened 16\n\nExceptional 19\n\nSuperhuman/exotic 22+\n\nActive intelligent defenders use normal opposed-check rules and applicable Attributes/Powers. Ties favor defender when attacker seeks to alter existing state.\n\nSuccessful intrusion accomplishes the specific attempted objective; sophisticated systems may require multiple meaningful objectives rather than one roll granting total control.\n\nAI remains an actor. EM can communicate with AI at machine speed where hardware permits and can attack/control its electromagnetic hardware/interfaces; a security success does not automatically control a sentient AI’s mind.\n\nQuantum computers can be accessed through their electromagnetic hardware, controls, sensors and interfaces. Power Skill permits interaction; Brilliance/Cleverness and acquired knowledge govern understanding and exploitation.\n\nAir gaps block conventional networking but do not inherently block direct EM interaction within Power range. Effective electromagnetic shielding/Faraday-style or exotic appropriate defenses can interfere with access.\n\nPassive Reception can exceed active Power Range when a signal itself reaches the character. Strength Range limits active imposition/control, not reception of broadcasts already arriving.\n\nPhysical consequences persist: fried electronics remain damaged, heated objects remain hot, ignited fires remain burning. Sustained EM effects can be maintained reasonably without a separate duration rating.",
+    "icon": "ϟ"
+  },
+  {
+    "name": "Scale Duplication",
+    "rows": [
+      "x2/÷2/2/Touch/1min",
+      "x3/÷4/3/5ft/2min",
+      "x4/÷8/4/10ft/5min",
+      "x5/÷16/5/15ft/10min",
+      "x6/÷32/6/20ft/15min",
+      "x8/÷64/7/30ft/30min",
+      "x10/÷128/8/40ft/1hr",
+      "x12/÷256/10/50ft/2hr",
+      "x15/÷512/12/60ft/3hr",
+      "x20/÷1,000/14/75ft/4hr",
+      "x25/÷2,000/16/100ft/6hr",
+      "x30/÷5,000/18/125ft/8hr",
+      "x40/÷10,000/20/150ft/12hr",
+      "x50/÷100,000/22/200ft/18hr",
+      "x75/÷1,000,000/24/250ft/24hr",
+      "x100/÷100,000,000/26/300ft/48hr"
+    ],
+    "tiers": [
+      [
+        1,
+        3,
+        "Illusory Duplication: Scaled sensory duplicates and decoys; self and simple subjects."
+      ],
+      [
+        4,
+        6,
+        "Basic Physical Duplication: Material but fragile duplicates; broader ordinary matter and biology."
+      ],
+      [
+        7,
+        9,
+        "Realistic Material Duplication: Convincing physical properties; arbitrary Scale Control within Strength limits; Duplicate Sacrifice."
+      ],
+      [
+        10,
+        12,
+        "Functional Duplication: Living duplicates function as living beings; appropriate machinery functions; preserved Attributes and Powers where fidelity supports them; improved Duplicate Sacrifice."
+      ],
+      [
+        13,
+        15,
+        "Semi-Autonomous Duplication: Sophisticated living duplicates may possess duplicated memories and personality; advanced control and control handoff; Duplicate Merge. Highest fidelity, including extraordinary or exotic substances and phenomena where appropriate, such as radioactive material and supernatural or fictional materials. A character may intentionally use lower fidelity. Each full fidelity tier below maximum reduces Challenge Rating by 1 when a check is required."
+      ]
+    ],
+    "labels": "Max Enlargement / Max Reduction / Duplicates Maintained per target / Creation Range / Base Duration",
+    "description": "Create temporary scaled duplicates of an original. The original remains unchanged and safe. Multiple duplicates of the same or different originals may exist at different sizes within normal capacity.",
+    "full": "CORE: Create temporary scaled duplicates of an original. The original remains unchanged and safe. Multiple duplicates of the same or different originals may exist at different sizes within normal capacity.\n\nINFORMATION-PATTERN RECONSTRUCTION:\n\nScale Duplication reads the original as an informational pattern and constructs a new temporary instance at the chosen scale from the same supernatural source that powers Genesis abilities. The original supplies the pattern, not physical matter.\n\nThe duplicate’s substance reflects the underlying source of Powers in the setting: divine spark, magic, ectoplasm, ethereal matter, cosmic energy, or another established source.\n\nThe Power sustains the reconstruction. Duplicate limits and duration represent how many reconstructions the character can maintain and for how long.\n\nSCALED PHYSICS:\n\nScaled duplicates have mass, volume, and ordinary density appropriate to their new size.\n\nLiving functional duplicates retain the original’s Attributes and learned Power capabilities to the fidelity permitted by Scale Duplication Skill.\n\nSize still changes geometry and physical interaction. Reach, grip size, leverage, traction, contact area, visibility, access, and environmental obstacles remain scale-dependent.\n\nReduction does not inherently increase density, Strength, or Endurance.\n\nEnlargement does not inherently reduce Attributes or create additional Attribute ratings.\n\nA tiny duplicate with preserved Strength can exert the original’s Strength when it can obtain usable leverage, anchoring, grip, or another physically workable method.\n\nMovement Powers retain their normal ratings. Scale changes the environment in which movement occurs rather than reducing the Power rating.\n\nSTRENGTH = Max Enlargement / Max Reduction / Duplicates Maintained per target / Creation Range / Base Duration\n\n1 x2/÷2/2/Touch/1min\n\n2 x3/÷4/3/5ft/2min\n\n3 x4/÷8/4/10ft/5min\n\n4 x5/÷16/5/15ft/10min\n\n5 x6/÷32/6/20ft/15min\n\n6 x8/÷64/7/30ft/30min\n\n7 x10/÷128/8/40ft/1hr\n\n8 x12/÷256/10/50ft/2hr\n\n9 x15/÷512/12/60ft/3hr\n\n10 x20/÷1,000/14/75ft/4hr\n\n11 x25/÷2,000/16/100ft/6hr\n\n12 x30/÷5,000/18/125ft/8hr\n\n13 x40/÷10,000/20/150ft/12hr\n\n14 x50/÷100,000/22/200ft/18hr\n\n15 x75/÷1,000,000/24/250ft/24hr\n\n16 x100/÷100,000,000/26/300ft/48hr\n\nThe current reduction values are the active Batch II playtest values until intentionally revised.\n\nSKILL:\n\n1–3 Illusory Duplication:\n\nScaled sensory duplicates and decoys; self and simple subjects.\n\n4–6 Basic Physical Duplication:\n\nMaterial but fragile duplicates; broader ordinary matter and biology.\n\n7–9 Realistic Material Duplication:\n\nConvincing physical properties; arbitrary Scale Control within Strength limits; Duplicate Sacrifice.\n\n10–12 Functional Duplication:\n\nLiving duplicates function as living beings; appropriate machinery functions; preserved Attributes and Powers where fidelity supports them; improved Duplicate Sacrifice.\n\n13–15 Semi-Autonomous Duplication:\n\nSophisticated living duplicates may possess duplicated memories and personality; advanced control and control handoff; Duplicate Merge.\n\n16 Exceptional Duplication:\n\nHighest fidelity, including extraordinary or exotic substances and phenomena where appropriate, such as radioactive material and supernatural or fictional materials.\n\nA character may intentionally use lower fidelity. Each full fidelity tier below maximum reduces Challenge Rating by 1 when a check is required.\n\nSCALE CONTROL — Skill 7+:\n\nChoose any size differential within Strength limits rather than only fixed doubling or halving. Functional coherence improves with Skill.\n\nDUPLICATE SACRIFICE — Skill 7+:\n\nSacrifice one duplicate from an original; it disappears.\n\nDuration option: double the maximum duration of every surviving duplicate from that same original, measured from original creation time. This changes expiration rather than restarting the clock. Repeated sacrifices may continue while at least two duplicates remain.\n\nRepair option Skill 7–9: sacrifice one duplicate to repair one surviving duplicate from the same original.\n\nRepair option Skill 10+: sacrifice one duplicate to repair all remaining duplicates from that original.\n\nThe size of the sacrificed duplicate does not change the effect.\n\nDUPLICATE MERGE — Skill 13+:\n\nMerge multiple duplicates of the same original into one larger or more powerful duplicate. Contributors are consumed.\n\nNumber, scale, Strength, and circumstances determine the plausible merged result. Duplicate Merge is an exertion/story-scale technique rather than repeatable exponential arithmetic and does not establish a new normal Enlargement ceiling.\n\nAt exceptional Skill 16 and Strength 16, an all-in extraordinary merge can potentially reach absurd or planet-scale size under appropriate story circumstances.\n\nConsumed duplicates cannot later be sacrificed. The merged duplicate remains temporary.\n\nCONTROL:\n\nAnimate duplicates normally operate under the duplicator’s control.\n\nHigher Skill permits increasing autonomy and control handoff to the original subject, including appropriate senses and movement.\n\nAt Skill 13+, sophisticated living duplicates may possess the original’s duplicated memories and personality to the degree established by fidelity. They remain temporary reconstructions derived from the original’s informational pattern.",
+    "icon": "♧"
+  }
+]
